@@ -1,0 +1,8 @@
+C:\Users\u15259\Desktop\RotasAreas\RotasAreas\bin\Debug\RotasAreas.exe
+C:\Users\u15259\Desktop\RotasAreas\RotasAreas\bin\Debug\RotasAreas.pdb
+C:\Users\u15259\Desktop\RotasAreas\RotasAreas\obj\Debug\RotasAreas.csprojResolveAssemblyReference.cache
+C:\Users\u15259\Desktop\RotasAreas\RotasAreas\obj\Debug\RotasAreas.Properties.Resources.resources
+C:\Users\u15259\Desktop\RotasAreas\RotasAreas\obj\Debug\RotasAreas.csproj.GenerateResource.Cache
+C:\Users\u15259\Desktop\RotasAreas\RotasAreas\obj\Debug\RotasAreas.exe
+C:\Users\u15259\Desktop\RotasAreas\RotasAreas\obj\Debug\RotasAreas.pdb
+C:\Users\u15259\Desktop\RotasAreas\RotasAreas\obj\Debug\RotasAreas.frmRotas.resources
